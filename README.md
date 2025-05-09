@@ -82,8 +82,4 @@ pip install langgraph langchain langchain-google-genai langchain-community langc
 
 ---
 
-### **🚀 Get Started Now!**  
-Clone the repo and dive into the future of AI agents:  
-
-```sh
 
